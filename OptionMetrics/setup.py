@@ -112,3 +112,6 @@ NUM_REPEATS = 1 #5
 Set result folder
 """
 res_dir = f'{DATA_DIR}Result/FREQ={FREQ}_HALFMONEY={HALF_MONEY}_MINM={MIN_M}_MAXM={MAX_M}_MINTAU={MIN_TAU_Days}_MISSING={FEED_MISSING}_WINDOW={date_window}_KickTmrZeroVolume={REMOVE_TMR_ZERO_VOLUME}/'
+
+
+DATA_DIR = option_price.csv
